@@ -1,1 +1,1 @@
-# Taller1--Pensamiento-algor-tmico
+# Taller1--Pensamiento-algori-tmico
