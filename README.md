@@ -1,7 +1,7 @@
 # Taller1--Pensamiento-algori-tmico
 
 Dilan Stiven Muñoz Sanchez , Gabriel Leyva Acevedo, Santiago Vasquez Ochica 
-Pensamiento algoritmico G1 , 01/09/2025
+Pensamiento algoritmico G01 , 01/09/2025
 Linux / macOS (g++)
 ```bash
 g++ -std=c++17 src/calculadora.cpp -o calculadora
